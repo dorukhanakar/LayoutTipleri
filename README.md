@@ -17,4 +17,4 @@ bölüp araklıklarını istediğimiz gibi ayarlayabiliriz.
 FrameLayout türünde bileşenler üst üste bindirilerek kullanılır. Örneğin uygulamada aynı boyutta iki 
 adet buton kullanılmış olsun. Uygulama gereği birinci buton tıklanırken ikinci buton gözükmesin ve 
 ikinci buton tıklanırken birinci buton gözükmesin istiyorsak Layout olarak FrameLayout 
-kullanmalıyız.
+kullanmalıyız.(Örnek olarak Frame Layout Örneği Kullanmayı tercih ettim.)
